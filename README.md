@@ -1,4 +1,4 @@
-This is a website for MAGIRTS programming event at ALA Annual 2017
+This is a website for MAGIRT'S programming event at ALA Annual 2017
 
 ## Credits
 
